@@ -11,7 +11,7 @@ RX 6600xt support arrived on Catalina
 | CPU           | RYZEN 5 5600X       |
 | GPU           | ASROCK RX 6600XT    |
 | SSD           | VGEN Hyper          |
-| Board         | AOURUS B550M Pro -P |
+| Board         | AOURUS B550i-PRO AX |
 | Ethernet      | LucyRTL8125Ethernet |
 | MacOS         | Catalina            |
 
